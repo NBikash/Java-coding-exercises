@@ -1,4 +1,4 @@
-package com.Exercise.javaProgram.Array;
+ package com.Exercise.javaProgram.Array;
 
 //WAJP to merge two integer array that element should need to arrange one after another from different array(Interleave elements from both arrays)
 //e.g Array 1={10,20,30}, Array 2={40,50,60}, outputArray={10,40,20,50,30,60}
